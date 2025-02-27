@@ -1,0 +1,10 @@
+name = "Picture"
+version = "0.1.0"
+defaultTargets = ["picture"]
+
+[[lean_lib]]
+name = "Picture"
+
+[[lean_exe]]
+name = "picture"
+root = "Main"
